@@ -10,7 +10,7 @@ y qué te conviene sacar después, leyendo tu propia partida.
 <p align="center">
 <a href="https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Runalyzer-setup.exe"><b>⬇ Descargar para Windows</b></a>
 &nbsp;·&nbsp;
-<a href="https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Isaac-Progreso-SteamDeck.tar.gz"><b>⬇ Descargar para Steam Deck / Linux</b></a>
+<a href="https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Runalyzer-SteamDeck.tar.gz"><b>⬇ Descargar para Steam Deck / Linux</b></a>
 <br><sub>Siempre la última versión · <a href="https://github.com/alexmarny/Runalyzer-TBOI/releases">todas las versiones</a></sub>
 </p>
 
@@ -28,15 +28,15 @@ y qué te conviene sacar después, leyendo tu propia partida.
 1. Descarga **[Runalyzer-setup.exe](https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Runalyzer-setup.exe)** y ábrelo.
 2. Windows dirá **«Windows protegió su PC»**, porque el programa no está firmado (firmarlo cuesta dinero). Pulsa **«Más información»** y después **«Ejecutar de todas formas»**.
 3. Pulsa **«Instalar»**. No pide permisos de administrador: se instala solo para tu usuario.
-4. Al terminar se abre en tu navegador. Desde entonces la tienes en el menú Inicio como **«Isaac · Progreso»**.
+4. Al terminar se abre en tu navegador. Desde entonces la tienes en el menú Inicio como **«Runalyzer»**.
 
-Para quitarla: *Configuración → Aplicaciones → Isaac · Progreso → Desinstalar*.
+Para quitarla: *Configuración → Aplicaciones → Runalyzer → Desinstalar*.
 
 ## Instalar en Steam Deck (o Linux)
 
 1. Pasa al **Modo Escritorio** (botón Steam → Apagar → Cambiar a escritorio). Necesitas un navegador; si no tienes, instala Firefox o Chrome desde Discover.
-2. Descarga **[Isaac-Progreso-SteamDeck.tar.gz](https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Isaac-Progreso-SteamDeck.tar.gz)** y descomprímelo (clic derecho → Extraer → Extraer aquí).
-3. Entra en la carpeta y haz doble clic en **Isaac-Progreso** → «Ejecutar». Si dice que no se puede ejecutar: clic derecho → Propiedades → Permisos → marca «Es ejecutable».
+2. Descarga **[Runalyzer-SteamDeck.tar.gz](https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Runalyzer-SteamDeck.tar.gz)** y descomprímelo (clic derecho → Extraer → Extraer aquí).
+3. Entra en la carpeta y haz doble clic en **Runalyzer** → «Ejecutar». Si dice que no se puede ejecutar: clic derecho → Propiedades → Permisos → marca «Es ejecutable».
 4. Desde entonces la tienes en el menú de aplicaciones (en «Juegos»). No muevas la carpeta; si la mueves, ábrela una vez desde su sitio nuevo.
 
 En la Deck, el modo en directo solo funciona si juegas desde el Modo Escritorio: al volver al Modo Juego se cierra el escritorio y la herramienta con él.
