@@ -28,7 +28,7 @@ y qué te conviene sacar después, leyendo tu propia partida.
 1. Descarga **[Runalyzer-setup.exe](https://github.com/alexmarny/Runalyzer-TBOI/releases/latest/download/Runalyzer-setup.exe)** y ábrelo.
 2. Windows dirá **«Windows protegió su PC»**, porque el programa no está firmado (firmarlo cuesta dinero). Pulsa **«Más información»** y después **«Ejecutar de todas formas»**.
 3. Pulsa **«Instalar»**. No pide permisos de administrador: se instala solo para tu usuario.
-4. Al terminar se abre en tu navegador. Desde entonces la tienes en el menú Inicio como **«Runalyzer»**.
+4. Al terminar se abre en tu navegador, con una pequeña intro. Desde entonces la tienes en el menú Inicio como **«Runalyzer»**. No abre ninguna ventana más: funciona en segundo plano y, al cerrar la pestaña, se apaga sola a los pocos minutos.
 
 Para quitarla: *Configuración → Aplicaciones → Runalyzer → Desinstalar*.
 
@@ -54,7 +54,7 @@ No hay que volver a descargar nada. Al abrirla mira si hay una versión nueva y,
 ## Si algo no va
 
 - **No encuentra mi partida:** cada ranura es un archivo `rep+persistentgamedataN.dat` (N = 1, 2 o 3). Con Steam Cloud está en `C:\Program Files (x86)\Steam\userdata\<tu número>\250900\remote\`; sin Steam Cloud, en `Documentos\My Games\Binding of Isaac Repentance+\`. Puedes pegar la ruta o elegir el archivo a mano en la página.
-- **No se abre el navegador:** la ventana negra muestra una dirección `http://127.0.0.1:…`; cópiala en el navegador.
+- **No se abre el navegador:** vuelve a abrir Runalyzer desde el menú Inicio; si ya estaba en marcha, abre otra pestaña con ella.
 - **¿Es el archivo bueno?** Cada versión trae `SHA256SUMS.txt` con la suma de sus archivos. En Windows puedes comprobarla con `Get-FileHash Runalyzer-setup.exe` en PowerShell.
 
 ---
