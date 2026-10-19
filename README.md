@@ -23,6 +23,7 @@ y qué te conviene sacar después, leyendo tu propia partida.
 - Te propone a qué ir después: lo que abre zonas y personajes, los mejores premios a tu alcance y lo que conviene dejar para el final.
 - **En directo:** déjala abierta mientras juegas y se actualiza sola cada vez que el juego guarda, enseñándote lo nuevo.
 - **Botón «Jugar»:** abre The Binding of Isaac en Steam directamente desde la herramienta.
+- **Ver en el móvil:** escanea un QR y sigue tu partida en el móvil mientras juegas, actualizándose en tiempo real.
 
 ## Instalar en Windows
 
@@ -41,6 +42,14 @@ Para quitarla: *Configuración → Aplicaciones → Runalyzer → Desinstalar*.
 4. Desde entonces la tienes en el menú de aplicaciones (en «Juegos»). No muevas la carpeta; si la mueves, ábrela una vez desde su sitio nuevo.
 
 En la Deck, el modo en directo solo funciona si juegas desde el Modo Escritorio: al volver al Modo Juego se cierra el escritorio y la herramienta con él.
+
+## Ver en el móvil
+
+1. En Runalyzer, pulsa el **botón del móvil** (arriba, junto a «Jugar»).
+2. Escanea el código QR con la cámara del móvil. El móvil tiene que estar **en la misma wifi** que el PC o la Deck.
+3. Se abre tu partida y se va actualizando sola cada vez que el juego guarda, aunque estés jugando a pantalla completa.
+
+Desde el móvil solo se puede mirar: no puede cambiar nada ni ver otros archivos. Runalyzer solo se abre a la red de casa cuando pulsas ese botón. En Windows, la primera vez pregunta si Runalyzer puede usar la red: pulsa **«Permitir»** (redes privadas). **En la Steam Deck** puedes activarlo en el Modo Escritorio y después pasar al **Modo Juego**: el móvil sigue viendo la partida mientras juegas.
 
 ## Actualizaciones
 
